@@ -1,11 +1,17 @@
 # TODO Index
 
-## Generated TODO Index
+## src/models.py
 
-- src/models.py:2 — Implement User model with proper fields and methods
-- src/models.py:5 — Implement database migration logic
-- src/utils.py:2 — Implement password hashing logic
-- src/utils.py:7 — Add logging to all functions
-- src/utils.py:12 — Remove dead code (unused_func)
-- tests/test_utils.py:2 — Write tests for hash_password
-- tests/test_utils.py:6 — Add integration tests
+- Line 2: # TODO: Implement User model with proper fields and methods
+- Line 5: # TODO: Implement database migration logic
+
+## src/utils.py
+
+- Line 2: # TODO: Implement password hashing logic
+- Line 7: # TODO: Add logging to all functions
+- Line 12: # TODO: Remove dead code (unused_func)
+
+## tests/test_utils.py
+
+- Line 2: # TODO: Write tests for hash_password
+- Line 6: # TODO: Add integration tests
